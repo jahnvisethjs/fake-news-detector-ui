@@ -1,1 +1,1 @@
-# fake-news-detector-ui-sml
+# fake-news-detector-ui
